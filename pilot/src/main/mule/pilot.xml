@@ -20,7 +20,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/java
 ---
 {
-	'1':'commit one'
+	'1':'commit one',
+	'2':'commit 2'
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
