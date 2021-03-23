@@ -25,8 +25,7 @@ output application/java
 	'3':'commit 3',
 	'4':'commit 4',
 	'5':'commit 5',
-	'6':'11111111',
-	'7':'234567'
+	'6':'11111111'
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
